@@ -13,4 +13,4 @@ log_df = read_log_df("lm_TMW-2018-2021.log")
 
 You can also [view and run the notebook on nbviewer](https://nbviewer.jupyter.org/github/cengique/matlab-license-log-analyzer/blob/main/analysis-notebook.ipynb).
 
-Open [Issues](issues) if you have comments or suggestions.
+Open [Issues](https://github.com/cengique/matlab-license-log-analyzer/issues) if you have comments or suggestions.
